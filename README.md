@@ -1,0 +1,2 @@
+# bespoke-dataset-with-faker
+Faker is a Python script that generates fake data.  Faker is a Python package that helps you create fake data. It can generate all forms of data and is useful for creating realistic-looking datasets. We'll look at the ones that are most useful for customer demos, but the documentation lists all of the "providers" of bogus data in the library.   We'll also use the Python numpy package, which allows us to build numeric fields (for example, sales) based on a distribution or select items at random from a list.
